@@ -1,0 +1,90 @@
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.deps.json
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.runtimeconfig.json
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.exe
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.exe
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.deps.json
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.runtimeconfig.json
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.pdb
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\NLog.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.pdb
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.dll.config
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.AssemblyReference.cache
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.AssemblyInfoInputs.cache
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.AssemblyInfo.cs
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.CoreCompileInputs.cache
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.Up2Date
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\refint\ClientFX.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.pdb
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.genruntimeconfig.cache
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ref\ClientFX.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\server\NLog.config
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.dll.config
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\inot.db
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.IO.Pipelines.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Text.Encodings.Web.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\x64\RiderProjects\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\inot.db
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\server\NLog.config
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.deps.json
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.runtimeconfig.json
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.exe
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.exe
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.dll.config
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.deps.json
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.runtimeconfig.json
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\ClientFX.pdb
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\NLog.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.IO.Pipelines.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Text.Encodings.Web.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.pdb
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\bin\Debug\net9.0-windows\Lab8Csharp.dll.config
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.AssemblyReference.cache
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.AssemblyInfoInputs.cache
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.AssemblyInfo.cs
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.CoreCompileInputs.cache
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.csproj.Up2Date
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\refint\ClientFX.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.pdb
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.genruntimeconfig.cache
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ref\ClientFX.dll

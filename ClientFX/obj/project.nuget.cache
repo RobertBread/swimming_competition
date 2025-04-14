@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "B26ZbX94Cfw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0-preview.3.25171.5\\microsoft.extensions.configuration.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.configuration.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.0-preview.3.25171.5\\microsoft.extensions.configuration.fileextensions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.configuration.ini\\9.0.4\\microsoft.extensions.configuration.ini.9.0.4.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.0-preview.3.25171.5\\microsoft.extensions.configuration.json.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.fileproviders.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.0-preview.3.25171.5\\microsoft.extensions.fileproviders.physical.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0-preview.3.25171.5\\microsoft.extensions.filesystemglobbing.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.3.25171.5\\microsoft.extensions.primitives.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\system.io.pipelines\\10.0.0-preview.3.25171.5\\system.io.pipelines.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\system.text.encodings.web\\10.0.0-preview.3.25171.5\\system.text.encodings.web.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\staic\\.nuget\\packages\\system.text.json\\10.0.0-preview.3.25171.5\\system.text.json.10.0.0-preview.3.25171.5.nupkg.sha512"
+  ],
+  "logs": []
+}
