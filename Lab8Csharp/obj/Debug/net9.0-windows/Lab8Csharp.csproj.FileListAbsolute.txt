@@ -76,3 +76,4 @@ C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\Lab8Csharp\obj\Debug\net9.0
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\Lab8Csharp\obj\Debug\net9.0-windows\Lab8Csharp.pdb
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\Lab8Csharp\obj\Debug\net9.0-windows\Lab8Csharp.genruntimeconfig.cache
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\Lab8Csharp\obj\Debug\net9.0-windows\ref\Lab8Csharp.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\Lab8Csharp\obj\Debug\net9.0-windows\Lab8Csharp.sourcelink.json

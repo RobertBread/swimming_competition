@@ -88,3 +88,4 @@ C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-w
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.pdb
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.genruntimeconfig.cache
 C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ref\ClientFX.dll
+C:\Users\staic\Desktop\lab mpp\Lab8Csharp\Lab8Csharp\ClientFX\obj\Debug\net9.0-windows\ClientFX.sourcelink.json
