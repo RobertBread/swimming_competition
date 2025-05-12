@@ -178,8 +178,6 @@ namespace Lab8Csharp.server
             var participantRepo = new ParticipantEFRepository(dbContext);
             var probaRepo = new ProbaDBRepository(connectionString);
             var inscriereRepo = new InscriereEFRepository(dbContext);
-
-            //var grpcService = new ServicesGrpcImpl(userRepo, participantRepo, probaRepo, inscriereRepo);
             
 
             var grpcService = new ServicesGrpcImpl(userRepo, participantRepo, probaRepo, inscriereRepo);
