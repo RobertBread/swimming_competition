@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj": {}
+    "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj": {
+    "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj",
+        "projectUniqueName": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj",
         "projectName": "ClientFX",
-        "projectPath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj",
+        "projectPath": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\ClientFX.csproj",
         "packagesPath": "C:\\Users\\staic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\obj\\",
+        "outputPath": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\ClientFX\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -29,8 +29,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj": {
-                "projectPath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj"
+              "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj": {
+                "projectPath": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj"
               }
             }
           }
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,18 +74,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\staic\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj": {
+    "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj",
+        "projectUniqueName": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj",
         "projectName": "Lab8Csharp",
-        "projectPath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj",
+        "projectPath": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp.csproj",
         "packagesPath": "C:\\Users\\staic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\staic\\Desktop\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\obj\\",
+        "outputPath": "F:\\lab mpp\\Lab8Csharp\\Lab8Csharp\\Lab8Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -113,13 +113,45 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.30.2, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.71.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.71.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.71.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Microsoft.Extensions.Configuration.Ini": {
               "target": "Package",
               "version": "[9.0.4, )"
@@ -131,6 +163,10 @@
             "NLog": {
               "target": "Package",
               "version": "[5.4.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "System.Data.SQLite.Core": {
               "target": "Package",
@@ -156,7 +192,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\staic\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -17,7 +17,7 @@ namespace Lab8Csharp.persistence
             _dbUtils = new CdbcUtils(props);
         }
 
-        public User FindOne(long id)
+        public model.User FindOne(long id)
         {
             string query = "SELECT id, username, hashedPassword FROM User WHERE id = @id";
             try
@@ -28,7 +28,7 @@ namespace Lab8Csharp.persistence
                 using SQLiteDataReader reader = cmd.ExecuteReader();
                 if (reader.Read())
                 {
-                    User user = new(reader["username"].ToString(), reader["hashedPassword"].ToString())
+                    model.User user = new(reader["username"].ToString(), reader["hashedPassword"].ToString())
                     {
                         Id = Convert.ToInt64(reader["id"])
                     };
@@ -42,7 +42,7 @@ namespace Lab8Csharp.persistence
             return null;
         }
 
-        public User FindByUsername(string username)
+        public model.User FindByUsername(string username)
         {
             string query = "SELECT id, username, hashedPassword FROM User WHERE username = @username";
             try
@@ -53,7 +53,7 @@ namespace Lab8Csharp.persistence
                 using SQLiteDataReader reader = cmd.ExecuteReader();
                 if (reader.Read())
                 {
-                    User user = new(reader["username"].ToString(), reader["hashedPassword"].ToString())
+                    model.User user = new model.User(reader["username"].ToString(), reader["hashedPassword"].ToString())
                     {
                         Id = Convert.ToInt64(reader["id"])
                     };
@@ -67,9 +67,9 @@ namespace Lab8Csharp.persistence
             return null;
         }
 
-        public IEnumerable<User> FindAll()
+        public IEnumerable<model.User> FindAll()
         {
-            List<User> users = new();
+            List<model.User> users = new();
             string query = "SELECT id, username, hashedPassword FROM User";
             try
             {
@@ -78,7 +78,7 @@ namespace Lab8Csharp.persistence
                 using SQLiteDataReader reader = cmd.ExecuteReader();
                 while (reader.Read())
                 {
-                    User user = new(reader["username"].ToString(), reader["hashedPassword"].ToString())
+                    model.User user = new(reader["username"].ToString(), reader["hashedPassword"].ToString())
                     {
                         Id = Convert.ToInt64(reader["id"])
                     };
@@ -92,7 +92,7 @@ namespace Lab8Csharp.persistence
             return users;
         }
 
-        public User Save(User user)
+        public model.User Save(model.User user)
         {
             string query = "INSERT INTO User (username, hashedPassword) VALUES (@username, @hashedPassword)";
             try
@@ -116,9 +116,9 @@ namespace Lab8Csharp.persistence
             return null;
         }
 
-        public User Delete(long id)
+        public model.User Delete(long id)
         {
-            User user = FindOne(id);
+            model.User user = FindOne(id);
             if (user == null)
                 return null;
 
@@ -138,7 +138,7 @@ namespace Lab8Csharp.persistence
             return null;
         }
 
-        public User Update(User user)
+        public model.User Update(model.User user)
         {
             string query = "UPDATE User SET username = @username, hashedPassword = @hashedPassword WHERE id = @id";
             try

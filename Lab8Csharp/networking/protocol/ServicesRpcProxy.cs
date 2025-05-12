@@ -58,7 +58,7 @@ namespace Lab8Csharp.networking.protocol
 
         public void RegisterParticipantToProba(string name, int? age, List<long> probaIds)
         {
-            var participant = new Participant(name, age);
+            var participant = new model.Participant(name, age);
             var inscrieri = new List<Inscriere>();
             foreach (var id in probaIds)
             {

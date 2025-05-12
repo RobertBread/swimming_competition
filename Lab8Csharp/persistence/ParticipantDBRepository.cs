@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.SQLite;
 using Lab8Csharp.model;
 using NLog;
+using Participant = Lab8Csharp.model.Participant;
 
 namespace Lab8Csharp.persistence
 {
@@ -29,7 +30,7 @@ namespace Lab8Csharp.persistence
                 using SQLiteDataReader reader = cmd.ExecuteReader();
                 if (reader.Read())
                 {
-                    Participant participant = new(reader["name"].ToString(), Convert.ToInt32(reader["age"]))
+                    Participant participant = new Participant(reader["name"].ToString(), Convert.ToInt32(reader["age"]))
                     {
                         Id = Convert.ToInt64(reader["id"])
                     };

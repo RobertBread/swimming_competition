@@ -1,0 +1,3 @@
+obj\Debug\net8.0.15-windows\Protos/Services.cs \
+obj\Debug\net8.0.15-windows\Protos/ServicesGrpc.cs: C:/Users/staic/.nuget/packages/grpc.tools/2.71.0/build/native/include/google/protobuf/empty.proto\
+ Protos/services.proto

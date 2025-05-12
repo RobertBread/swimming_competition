@@ -1,0 +1,53 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+package org.example.grpc;
+
+message GrpcUser {
+  string username = 1;
+  string hashedPassword = 2;
+}
+
+message GrpcProbaDTO {
+  string distanta = 1;
+  string stil = 2;
+  int32 nrParticipanti = 3;
+  int64 id = 4;
+}
+
+message GrpcParticipant {
+  string name = 1;
+  int32 age = 2;
+}
+
+message ProbaIdRequest {
+  int64 probaId = 1;
+}
+
+message RegisterParticipantRequest {
+  string name = 1;
+  int32 age = 2;
+  repeated int64 probeIds = 3;
+}
+
+message ParticipantsResponse {
+  repeated GrpcParticipant participants = 1;
+}
+
+message ProbeResponse {
+  repeated GrpcProbaDTO probe = 1;
+}
+
+message CountResponse {
+  int32 count = 1;
+}
+
+service IServices {
+  rpc Login(GrpcUser) returns (google.protobuf.Empty);
+  rpc GetAllProbe(google.protobuf.Empty) returns (ProbeResponse);
+  rpc CountParticipants(ProbaIdRequest) returns (CountResponse);
+  rpc GetParticipantsForProba(ProbaIdRequest) returns (ParticipantsResponse);
+  rpc RegisterParticipantToProba(RegisterParticipantRequest) returns (google.protobuf.Empty);
+  rpc ListenForUpdates(google.protobuf.Empty) returns (stream ProbeResponse);
+}
