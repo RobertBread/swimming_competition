@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8Csharp", "Lab8Csharp\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientFX", "ClientFX\ClientFX.csproj", "{E370CB4D-1CBA-4DFC-947C-CF6303546813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InotMppAPI", "InotMppAPI\InotMppAPI.csproj", "{6585E55F-D8BB-4356-9198-703354D77F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E370CB4D-1CBA-4DFC-947C-CF6303546813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E370CB4D-1CBA-4DFC-947C-CF6303546813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E370CB4D-1CBA-4DFC-947C-CF6303546813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6585E55F-D8BB-4356-9198-703354D77F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6585E55F-D8BB-4356-9198-703354D77F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6585E55F-D8BB-4356-9198-703354D77F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6585E55F-D8BB-4356-9198-703354D77F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -27,6 +27,7 @@
       <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
       <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
     </ItemGroup>
+    
 
     <ItemGroup>
       <Compile Update="client\gui\LoginForm.cs">

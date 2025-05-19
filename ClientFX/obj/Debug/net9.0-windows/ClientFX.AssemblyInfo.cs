@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientFX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b603e275571eba73198ad4fcc62d1566633444f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967bbe3c5038f3c7cac4c045db3ea4a18a2b3151")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientFX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientFX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
